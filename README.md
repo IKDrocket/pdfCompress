@@ -29,5 +29,5 @@ OS：macOS Catalina 10.15.7
  
 ## 実行方法:
 ```
-./pdfCompress_v1.X.sh 
+./pdfCompress.sh 
 ```
