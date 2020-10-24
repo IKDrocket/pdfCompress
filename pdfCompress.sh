@@ -6,14 +6,14 @@
 
 ##定数定義
 #compress元ディレクトリ
-readonly BEFORE_DIR='/Users/ikdrocket/workspace/pdf_mini/input/'
+readonly BEFORE_DIR='/Users/ikdrocket/workspace/pdfCompress/input/'
 
 #compress先ディレクトリ
-readonly AFTER_DIR='/Users/ikdrocket/workspace/pdf_mini/output/'
+readonly AFTER_DIR='/Users/ikdrocket/workspace/pdfCompress/output/'
 
 
 ################################################################################
-## gs(Ghostscript)オプション説明###                                              　
+## gs(Ghostscript)オプション説明##
 ## -dNOPAUSE:入力ファイルを1つ処理完了したら、次の入力ファイルを処理する
 ## -dBATCH:変換処理が完了したらgsを終了する
 ## -sDEVICE=pdfwrite:ファイルの出力方式を指定。PDFファイルに変換を指定している。
